@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at file:///D:/portfolio/vishnu-Portfolio-main/index.html
 
-- 💬 Ask me about **react, veu Tec**
+- 💬 Ask me about **react**
 
 - 📫 How to reach me **thilakesanvishnujan@gmail.com**
 
