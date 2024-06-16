@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at [file:///D:/portfolio/vishnu-Portfolio-main/index.html](file:///D:/portfolio/vishnu-Portfolio-main/index.html)
+- 👨‍💻 All of my projects are available at file:///D:/portfolio/vishnu-Portfolio-main/index.html
 
 - 💬 Ask me about **react, veu Tec**
 
